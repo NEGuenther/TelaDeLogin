@@ -1,0 +1,33 @@
+# 
+
+
+# 🔑 Tela de Login
+![alt text](/img/Assets/{51DB7121-EC6C-4169-ACB3-193445676A2E}.png)
+
+Este projeto é uma simples e elegante tela de login, desenvolvida para demonstrar habilidades em HTML e CSS. A interface foi projetada para ser responsiva e intuitiva, com um foco especial no design moderno e na experiência do usuário.
+
+## 🚀 Tecnologias Utilizadas
+
+* **HTML5:** Utilizado para a estrutura e semântica da página.
+* **CSS3:** Responsável pela estilização, layout e animações. Foram utilizados recursos como Flexbox para centralização, bordas arredondadas e sombras para um efeito de profundidade.
+
+## ✨ Funcionalidades
+
+* **Design Minimalista:** Interface limpa e agradável, com foco na usabilidade.
+* **Responsividade:** O layout se adapta a diferentes tamanhos de tela (desktop, tablet e mobile), garantindo uma experiência consistente em qualquer dispositivo.
+* **Campos de Entrada:** Campos para e-mail e senha, com ícones para uma melhor identificação.
+* **Links de Ação:** "Esqueci minha senha" e "Cadastre-se" para direcionar o usuário.
+* **Botão de Ação:** Botão de login com um visual destacado.
+
+## 🖥 Como Executar o Projeto
+
+É muito simples! Este projeto é puramente de front-end e não requer nenhuma configuração de servidor. Siga os passos abaixo:
+
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    ```
+2.  **Abra o arquivo:**
+    Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador de preferência (Google Chrome, Firefox, etc.).
+
+
