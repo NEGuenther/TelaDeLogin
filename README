@@ -1,5 +1,5 @@
 # Tela
-![Captura de Tela](/img/Assets/img.png)
+<img src="/img/Assets/img.png"></img>
 
 
 Este projeto é uma simples e elegante tela de login, desenvolvida para demonstrar habilidades em HTML e CSS. A interface foi projetada para ser responsiva e intuitiva, com um foco especial no design moderno e na experiência do usuário.
