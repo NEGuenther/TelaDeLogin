@@ -23,7 +23,7 @@ Este projeto é uma simples e elegante tela de login, desenvolvida para demonstr
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/NEGuenther/TelaDeLogin
     ```
 2.  **Abra o arquivo:**
     Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador de preferência (Google Chrome, Firefox, etc.).
