@@ -1,8 +1,6 @@
-# 
+# Tela
+<img src="/img/Assets/img.png"></img>
 
-
-# 🔑 Tela de Login
-![alt text](/img/Assets/{51DB7121-EC6C-4169-ACB3-193445676A2E}.png)
 
 Este projeto é uma simples e elegante tela de login, desenvolvida para demonstrar habilidades em HTML e CSS. A interface foi projetada para ser responsiva e intuitiva, com um foco especial no design moderno e na experiência do usuário.
 
@@ -25,7 +23,7 @@ Este projeto é uma simples e elegante tela de login, desenvolvida para demonstr
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+    git clone https://github.com/NEGuenther/TelaDeLogin
     ```
 2.  **Abra o arquivo:**
     Navegue até o diretório do projeto e abra o arquivo `index.html` em seu navegador de preferência (Google Chrome, Firefox, etc.).
